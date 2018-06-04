@@ -4,7 +4,9 @@
 ## 手順１ /etc/mongo.conf の設定
 ３台全てのmongo.confに以下の設定を行う
 
-```> vi /etc/mongod.conf```  
+```
+> vi /etc/mongod.conf
+```  
 ```
 net:  
   port: 27017  
